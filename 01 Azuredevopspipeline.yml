@@ -24,5 +24,5 @@ jobs:
       displayName: 'Run a multi-line script'
   - job: job2
     steps:
-     - script: echo jobs2 is displyaed!
+     - script: echo jobs2 is dsplyaed!
        displayName: 'Run a one-line script'
